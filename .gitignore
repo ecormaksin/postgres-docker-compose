@@ -1,2 +1,4 @@
-postgres/init/**
-postgres/work/**
+postgres/init/*
+postgres/work/*
+!postgres/init/.gitkeep
+!postgres/work/.gitkeep
