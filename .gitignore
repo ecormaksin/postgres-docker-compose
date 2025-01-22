@@ -2,3 +2,5 @@ postgres/init/*
 postgres/work/*
 !postgres/init/.gitkeep
 !postgres/work/.gitkeep
+.env
+compose.yaml
